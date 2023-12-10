@@ -1,0 +1,175 @@
+<title>The Last Wish</title>
+{{Use dmy dates|date=September 2022}}
+{{short description|Short story collection by Andrzej Sapkowski}}
+{{about|the short story collection|the rock band|The Last Wish (band)|the animated film|Puss in Boots: The Last Wish}}
+{{Infobox book
+| name          = The Last Wish
+| image         = File:Andrzej Sapkowski - The Last Wish.jpg
+| caption       = First edition cover
+| author        = [[Andrzej Sapkowski]]
+| title_orig    = Ostatnie życzenie
+| orig_lang_code = pl
+| translator    = Danusia Stok
+| cover_artist  = 
+| country       = [[Poland]]
+| language      = [[Polish language|Polish]]
+| series        = ''[[The Witcher]]''
+| release_number = 1
+| genre         = [[Fantasy]]
+| followed_by   = [[Sword of Destiny]]
+| publisher     = [[SuperNowa]]
+| pub_date      = 1993
+| english_pub_date = 2007
+| media_type    = Print (hardback & paperback)
+| pages         = 288
+| isbn          = 978-0-575-08244-1
+| oclc          = 
+| preceded_by_quotation_marks = The Road with No Return
+}}
+'''''The Last Wish''''' ({{lang-pl|Ostatnie życzenie}}) is the third{{Efn|It was preceded by both ''The Witcher'', published in 1990 by Reporter, and ''[[Sword of Destiny]]'', published in 1992 by [[SuperNowa]]. Current publishing rights holder, SuperNowa, considers ''The Last Wish'' (1993) to be the first book in their official order, and ''Sword of Destiny'' to be the second, despite their publication dates.}} published [[short story]] collection in Polish [[fantasy]] writer [[Andrzej Sapkowski]]'s ''[[The Witcher]]'' series. Published by [[SuperNowa]] in 1993,<ref>{{Cite web|url = http://www.supernowa.pl/autorzy.php?p=1|title = SuperNOWA - Andrzej Sapkowski}}</ref> it was preceded by 1992's ''[[Sword of Destiny]]'', but is officially considered the first entry in the series and ''Sword of Destiny'' the second. The collection contains seven short stories interspersed with a continuing [[frame story]]: [[Geralt of Rivia]], after having been injured in battle, rests in a temple. During that time he has [[flashback (narrative)|flashback]]s to recent events in his life, with each flashback forming a short story.
+
+''The Last Wish'' was first published in English on 7 June 2007 by [[Victor Gollancz Ltd|Gollancz]],<ref>{{Cite web|title=The Last Wish |url=https://bookhype.com/work/show/91574c72-2392-493b-9296-2ac49a32cf1b|access-date=2022-01-26|website=Bookhype|language=en}}</ref><ref>{{Cite web|url = http://www.gollancz.co.uk/2012/02/the-last-wish-cover-reveal-of-sorts/|title = The Last Wish Cover Reveal... of sorts!|date = February 9, 2012|accessdate = January 19, 2015}}</ref> and has also been translated into several other languages. In 2003, it won the [[Premio Ignotus]] for Best Anthology.<ref>{{Cite web |url=https://www.goodreads.com/award/show/5532-premio-ignotus?page=5 |title=Premio Ignotus Winners |website=goodreads.com |access-date=14 April 2023}}</ref>
+
+==Plot==
+==="The Witcher"===
+{{lang|pl|'''Wiedźmin'''}}
+:''"The Voice of Reason" ({{lang|pl|'''Głos rozsądku'''}}) Part I - In Ellander's Temple of Melitele, a wounded Geralt is awakened from his slumber by Iola, a mute servant. The two make love, and fall asleep together, with Geralt dreaming of his fight with the monster who wounded him.''
+
+The King of Temeria, Foltest, has offered a reward to anyone who can lift the curse on his daughter (the result of an incestuous union with his late sister, Adda), who was born as a [[strzyga|striga]], and terrorizes the town every night. Foltest insists that his daughter not be harmed, but grants Geralt permission to kill her if the curse cannot be lifted. Geralt is unsure whether she can live a normal life even if the curse is lifted.
+
+Geralt prepares to spend the night at the old palace which houses the striga. Lord Ostrit, a magnate from Novigrad, tries to bribe Geralt into leaving. Ostrit wants to use the striga as proof of Foltest's inability to rule, to support Novigrad's usurpation of Foltest. Geralt refuses, knocks out Ostrit, and uses him as bait.
+
+Geralt fights the striga, but, unable to subdue it, seals himself into its crypt, forcing it to spend the night outside its lair, lifting the curse. In the morning, Geralt approaches the seemingly-restored girl, but the she attacks and wounds him. Geralt binds his wounds and faints, but regains consciousness in the temple, being told that the princess is being cared for by the King, and Geralt has earned his reward.
+
+==="A Grain of Truth"===
+{{lang|pl|'''Ziarno prawdy'''}}
+:''"The Voice of Reason" Part II - In the morning, priestess Nenneke awakens Geralt and Iola, and insists Geralt take part in a trance with Iola, which would show them Geralt's future. Geralt refuses.''
+
+While traveling through a forest, Geralt comes across the corpses of a man and a girl with strange wounds. Tracing the corpses' path, the Witcher arrives at a seemingly deserted mansion. He notices a woman nearby watching him, who runs away.
+
+Geralt approaches the house and its owner, a bear-like beast named Nivellen, fails to scare him away. Nivellen allows Geralt to enter the house, which supernaturally obeys his commands. Nivellen relates that, as the leader of his late father's gang of bandits, he raped a priestess of a temple, who cursed him to be a beast before killing herself. The priestess told him how to lift the curse, but he has forgotten her words, which were related to a kiss from a woman.
+
+Returning to his family mansion, he paid the daughters of local villages to stay with him. None lifted his curse, and eventually he gave up, enjoying their company. Before departing, Geralt warns Nivellen that his newest relationship, named Vereena, may actually be a monster. Nivellen insists that he and Vereena are in love and is hesitant to break his curse, unsure if she would love him if he was an "ordinary" human. Geralt leaves. 
+
+Along the road, Geralt has a realization and returns to the mansion. He meets Vereena, whom Geralt identifies as a bruxa, a [[vampire]]-like monster. She loves Nivellen, but has been killing his other female companions, including the girl and her father that Geralt had found. A fight ensues, and Vereena overwhelms Geralt, but Nivellen joins the fight and impales her. The bruxa confesses her love for Nivellen just before Geralt kills her. The confession breaks Nivellen's curse. Geralt confides that the old stories about a kiss from a maiden lifting a curse like Nivellen's contain "a grain of truth": there has to be true love for the cure to work.
+
+==="The Lesser Evil"===
+{{lang|pl|'''Mniejsze zło'''}}
+:''"The Voice of Reason" Part III - Two knights of the Order of the White Rose, Count Falwick and Sir Tailles, arrive. They are ordered by the prince of Ellander to chase Geralt, "the Butcher of Blaviken", out of town. Geralt promises to leave in three days. Insulted, Tailles challenges Geralt to a duel, and the knights promise to return.''
+
+On the eve of a festival, Geralt rides into the town of Blaviken with a monster carcass in tow. He seeks out Caldemeyn, the town's alderman, to get a reward for killing the monster. Caldemeyn refuses, but his guards direct Geralt to the town wizard, Stregobor, a mage Geralt had met previously. Stregobor claims that a supposedly cursed woman wants to assassinate him, and wants Geralt's protection. Geralt refuses in disbelief and leaves.
+
+Meanwhile, the assassin, named Renfri, has entered Blaviken with her band of mercenaries. Geralt meets her, and she explains to Geralt that she is under protection from a king, which Caldemeyn confirms. That night, Geralt finds Renfri, who explains that Stregobor had previously tried to kill her out of superstition, and encourages Geralt to kill Stregobor instead. Geralt refuses, and pleads with Renfri to forgive Stregobor, to prove the superstition wrong. Renfri refuses, but implies she will leave town, before spending the night with Geralt.
+
+In the morning, on the day of the festival, Geralt realizes that Renfri lied, and will massacre the people of Blaviken to draw Stregobor out and kill him. Geralt finds Renfri's mercenaries in the marketplace, and kills them. When Renfri arrives, Geralt asks her to leave, but she refuses, so Geralt kills her as well. After the fight, Stregobor approaches Geralt, intent on performing an autopsy on Renfri's body to prove that the curse had affected her, but Geralt stops him. Stregobor leaves, and the townsfolk, believing Geralt had just murdered a group of innocent men, hurl rocks at him. Caldemeyn stops the villagers, but demands Geralt leave and never return. Geralt is now known as "the Butcher of Blaviken."
+
+==="A Question of Price"===
+{{lang|pl|'''Kwestia ceny'''}}
+:''"The Voice of Reason" Part IV - Geralt tells Iola his history as a Witcher.''
+
+Geralt is at the castle of Cintra, at the invitation of Queen Calanthe, attending the betrothal celebration for Crown Princess Pavetta. An uninvited knight with his face covered enters. He introduces himself as Urcheon of Erlenwald and claims Pavetta's hand in marriage, promised to him by her father Roegner, whose life Urcheon had saved. Calanthe admits that he has a claim, but refuses to marry Pavetta to a stranger. She orders him to remove his helmet and tricks him to make him think it's past midnight when he can remove the helmet. To everyone's shock, he has the face of a furry beast.
+
+Geralt asks Pavetta whether she will agree to marry Urcheon. To the outrage of the other suitors, she accepts. The suitors attack Urcheon, but he is defended by Geralt and the King of Skellige, Eist Tuirseach, who loves Calanthe. The attack provokes Pavetta, revealing her latent magical powers, which threaten to destroy the castle. Geralt and Eist's [[druid]] councilor, Mousesack, subdue her. When the princess approaches Urcheon, he transforms into a man named Duny. Pavetta and Duny have been seeing each other secretly, and fallen in love. Calanthe agrees to their marriage, and, having been saved from Pavetta's magical outburst by Eist, agrees to marry him. Thanking Geralt for saving him, Duny offers him whatever he asks. Geralt invokes The Law of Surprise, the same law which gave Duny his claim to Pavetta's hand. Pavetta reveals that she is pregnant, so Geralt has a right to claim the child. He leaves, showing no sign of wanting to do so.
+
+==="The Edge of the World"===
+{{lang|pl|'''Kraniec świata'''}}
+:''"The Voice of Reason" Part V - Dandelion, a poet and Geralt's friend, soon arrives. They discuss how the Witcher profession is losing profitability in modern times.''
+
+Geralt and Dandelion fail to find work in Upper Posada, Geralt dismissing the locals' tales of monsters as superstition. Moving on to Lower Posada, the village elder, Dhun, tells of a "devil" whose mischief has become a problem, but under no circumstances should be killed. In the countryside, Geralt and Dandelion confront the "devil". Dandelion insults it, which provokes the devil to drive them away.
+
+Back in the village, the "devil" is identified as a sylvan by a local witch and her young female companion, who had forbidden killing the sylvan. In a second confrontation, Geralt and Dandelion are knocked out and taken to the hideout of Aen Seidhe elves, with whom the sylvan, Torque, is taking refuge. 
+
+The elves are angry with Geralt and Dandelion, but Torque reminds them that they agreed that nobody would be killed. The elves break Dandelion's lute, angering him and Geralt. When the elves' leader, Filavandrel arrives, he orders them executed, as any witnesses threaten the elven hideout. While Geralt and Dandelion bargain for their lives, the legendary Queen of the Fields appears - she is the young witch from the village. While she and Filavandrel talk, Torque frees Geralt and Dandelion. Filavandrel releases them, declaring that he and Geralt will meet again. The elves give their lute to Dandelion as compensation.
+
+The story ends with Geralt, Dandelion, and Torque sitting around a campfire, wondering where to go next.
+
+==="The Last Wish" <span class="anchor" id="The Last Wish"></span> ===
+{{lang|pl|'''Ostatnie życzenie'''}}
+:''"The Voice of Reason" Part VI - Geralt talks to Nenneke about [[Yennefer of Vengerberg|Yennefer]], a frequent visitor to the temple, and leaves a portion of his striga payment for her. Nenneke asks how Geralt first met Yennefer.''
+
+Dandelion and Geralt are fishing, when the former hauls up an ancient sealed vase. Ignoring Geralt's warnings, Dandelion opens the vase, releasing a [[genie]]. He begins to recite three wishes, but the "genie" attacks him. Geralt banishes the creature with a local exorcism, and rushes Dandelion to the nearest city, Rinde, for medical aid. Visitors are not admitted after nightfall, forcing Geralt to spend the night in the guardhouse. Three other detainees - elves Chireadan, his cousin, Errdil, and half-elf knight Vratimir - inform him that the city authorities have imposed heavy duties for spellcasting, and mages are boycotting Rinde. As such, there is only one spellcaster in the city - the sorceress Yennefer of Vengerberg.
+
+When dawn breaks, Geralt goes to meet Yennefer. She agrees to help Dandelion, but aside, Chireadan warns Geralt not to trust her. Yennefer heals Dandelion, but demands to use him as bait to capture the genie and harness its power. Geralt refuses, but she paralyzes Geralt, who passes out and wakes up in a cell with Chireadan.
+
+Chireadan tells Geralt that Yennefer enchanted him into rampaging through the town, punishing those who had previously insulted her. Geralt and Chireadan are brought before the town's mayor and head priest, but the proceeding is interrupted. There is chaos outside: Yennefer has lured the genie to the town, and is trying to capture it. The genie is stronger than expected, and she is losing hold of it, threatening to destroy the town. Geralt tries to pull Yennefer to safety, but she refuses, although she offers to save Geralt. After a fight, Geralt realizes that the genie is bound to him, who last held the seal to its urn. It granted his first wish by obeying the "exorcism" (which literally translated as an instruction to "fuck off"), granted his second by killing one of the guards beating him in prison, and is now awaiting his final wish. Geralt uses his wish in an unknown way that saves Yennefer, and the genie escapes.
+
+Under the rubble of the inn, Yennefer and Geralt make love.
+
+=== "The Voice of Reason"===
+{{lang|pl|'''Głos rozsądku'''}}
+
+Geralt and Dandelion leave the temple, but are stopped by Falwick, Tailles and a company of soldiers. They are accompanied by Dennis Cranmer, dwarf captain of the prince's guard. The knights outline an unwinnable situation to Geralt, in which he must accept Tailles' challenge but not harm Tailles, under penalty of death. Geralt accepts, but avoids punishment by parrying Tailles' sword so that it bashes Tailles. Dennis accepts the loophole and permits Geralt to leave. Falwick is outraged, but Geralt asks if the knight is willing to accept a challenge from Geralt. Falwick falls silent, and Geralt congratulates him for listening to "the voice of reason."
+
+Before Geralt leaves, he accidentally touches Iola's hand, inducing a trance. Geralt, Iola, and Nenneke see a bloody vision of Geralt's future. Geralt dismisses the vision, claiming to have seen it before, and says goodbye to Nenneke.
+
+==Production==
+The first collection of [[Andrzej Sapkowski]]'s short stories was simply titled ''The Witcher'' and published by Reporter in 1990.<ref name="ignorder">{{Cite web|title=The Witcher Books Reading Order|url=https://www.ign.com/articles/the-witcher-books-reading-order|work=[[IGN]]|date=2022-12-15|access-date= 2022-11-12}}</ref> [[SuperNowa]] acquired the publishing rights to the series that same year and published their first entry, ''[[Sword of Destiny]]'', in 1992.<ref name="sugar">{{Cite news|last=Cutali|first=Dan |url=https://sugarpulp.it/en/26893/|title=Interview with Andrzej Sapkowski|date=2015-07-13 |work=Sugarpulp|access-date=2022-11-12}}</ref> In 1993, they published ''The Last Wish'' to replace Reporter's collection as the first book in their official order. It includes the same stories, except "The Road with No Return", with the addition of "The Voice of Reason", "A Question of Price", and "The Last Wish".<ref name="ignorder"/>
+
+''The Last Wish'' contains many references to classic [[fairy tale]]s. "The Witcher" (1986) was conceived as a retelling of a Polish fairy tale where a princess turned into a monster as punishment for the incest of her parents.<ref name="sugar"/> "A Question of Price" (and later "[[Sword of Destiny#"Sword of Destiny"|Sword of Destiny]]") were based on the universally known fairy tale in which a monster or sorcerer saves somebody's life and then demands payment.<ref name="sugar"/> The 'Law of Surprise' in the story mirrors a similar 'law' established in the fairy tale [[Rumpelstiltskin]], as popularized by the [[Brothers Grimm]] in 1812. Similarly, the story "A Grain of Truth" features a man who has been turned into a beast through witchcraft, who is eventually turned back into a man through finding 'true love' - as in the classic story [[Beauty and the Beast]]. Most notably, in the story "A Lesser Evil", the character Shrike is introduced as a princess who was forced to flee her kingdom with the assistance of a huntsman, due to an evil stepmother. She later meets a band of seven dwarves and convinces them that highway robbery is more profitable than mining. This can be seen as an allusion to the fairy tale character [[Snow White]]. All these references exemplify that the structural motif of reworking plots from fairy tales, making them darker and more brutal than the original, is present in many of his works.<ref>{{Cite web |url=https://culture.pl/en/artist/andrzej-sapkowski |title=Andrzej Sapkowski |website=culture.pl |access-date=15 April 2023}}</ref>
+
+==Fictional chronology==
+The stories in these books take place after the short story "The Road with No Return". The novel ''[[Season of Storms]]'' takes place between "The Last Wish" and "A Question of Price".<ref>{{cite web |last1=Gennis |first1=Sadie |title=The Witcher Books: The Best Order to Read Them and Everything to Know Before the Netflix TV Show |url=https://www.tvguide.com/news/the-witcher-books-reading-order-netflix-tv-show/ |website=[[TV Guide]] |language=en |date=December 20, 2019}}</ref>
+
+#"A Grain of Truth"
+#"The Lesser Evil"
+#"The Edge of the World"
+#"The Last Wish"
+#"A Question of Price"
+#"The Witcher"
+#"The Voice of Reason"
+
+== Audio book ==
+A Polish-language audio book based on ''The Last Wish'' and ''[[The Sword of Destiny]]'' was released in 2011 by Fonopolis and audioteka.pl. ''The Last Wish'', lasting about 12 hours, was voiced by 52 actors, including Krzysztof Banaszyk as Geralt, [[Anna Dereszowska]] as Yennefer, Sławomir Pacek as Dandelion, and Krzysztof Gosztyła as narrator.<ref>{{Cite web |url=https://rozrywka.spidersweb.pl/ostatnie-zyczenie-wiedzmin-audiobook |language=pl |title=Dzisiaj Biały Wilk wrócił nie tylko z nową grą, ale również audiobookiem w Audiotece. Nareszcie! |website=spidersweb.pl |author=Szymon Radziewicz |date=31 May 2016 |access-date=14 April 2023}}</ref>
+
+==Reception==
+"The Lesser Evil" story included in the collection earned Sapkowski the [[Janusz A. Zajdel Award]] in 1990.<ref>{{cite news |url=https://zajdel.art.pl/laureaci.html |title=Laureaci Nagrody Fandomu Polskiego im. Janusza A. Zajdla |work=[[Janusz A. Zajdel Award]] |language=Polish |access-date=8 March 2022}}</ref> ''The Last Wish'' won the 2003 [[Premio Ignotus]] for Best Anthology.<ref>{{cite news |url=https://www.aefcft.com/premios-ignotus-2003/ |title=Premios Ignotus 2003 |work=[[Premio Ignotus]] |language=Spanish |access-date=12 November 2022}}</ref> In 2011, Polish Prime Minister [[Donald Tusk]] gave U.S. President [[Barack Obama]] diplomatic presents, as is custom, on his visit to Poland. One of these was a signed copy of ''The Last Wish''.<ref>{{Cite news|url = https://news.yahoo.com/blogs/ticket/obama-foreign-gifts-7-750-golf-bag-40-163656900.html|title = Obama's foreign gifts: $7,750 golf bag, $40,000 photo, iPod shuffle|date = April 26, 2013|access-date = January 19, 2015}}</ref> The English edition charted on [[The New York Times Best Seller list|''The New York Times'' Best Seller list]] in June 2015,<ref>{{cite web|url=http://www.orbitbooks.net/2015/06/08/the-last-wish-is-a-new-york-times-bestseller/|title=THE LAST WISH is a New York Times Bestseller! - Orbit Books|date=8 June 2015}}</ref> coinciding with the release of ''[[The Witcher 3: Wild Hunt]]'' video game.
+
+Rob H. Bedford of SFF World praised the interconnected "story within a story" framework of the collection as a great introduction to Geralt and "the fantastical world in which he resides, only hinting at the depth of the world and intrigue of the character." Although the magical elements are familiar, he found them refreshing because they were "reinterpreted through the myths and folklore of Sapkowski's Polish/Slavic background".<ref>{{Cite news |last=Bedford |first=Rob H.|url=http://www.sffworld.com/brevoff/447.html|title=The Last Wish by Andrzej Sapkowski|work=SFF World|date=2008-05-18|access-date=2022-11-12 |archiveurl=https://web.archive.org/web/20080526155832/http://www.sffworld.com/brevoff/447.html|archivedate=2008-05-26}}</ref>
+
+==Adaptations==
+Several short stories from ''The Last Wish'' have been adapted for television and video games.
+
+*Elements of "The Voice of Reason" were used for ''[[The Hexer (TV series)|The Hexer]]'' episodes "Human – First Meeting", "Crossroads" and "The Temple of Melitele".
+*"The Witcher" was adapted for:
+**The opening cinematic of ''[[The Witcher (video game)|The Witcher]]'' video game;
+**The episode "Crossroads" of ''The Hexer''; and
+**The episode "Betrayer Moon" (Season 1, Episode 3) of [[The Witcher (TV series)|''The Witcher'' television series]]
+**A comic book series published by [[Dark Horse Comics|Dark Horse]], set in the video game continuity, "Curse of the Crows" adapts the story in the flashbacks and the main plot draws some inspiration from the story as well;
+*"The Lesser Evil" was adapted for:
+**The ''Hexer'' episode of the same name, and other elements of the story were used in the episodes "Dandelion" and "Human-First Meeting";
+**The episode "The End's Beginning" (Season 1, Episode 1) of ''The Witcher'' series;
+*"A Question of Price" was adapted for
+**The ''Hexer'' episode "Calanthe"; and
+**elements were used for the episode "Of Banquets, Bastards and Burials" (Season 1, Episode 4) of ''The Witcher'' series;
+*"The Edge of the World" was adapted for:
+**The ''Hexer'' episode "The Valley of Flowers"; and
+**The episode "Four Marks" (Season 1, Episode 2) of ''The Witcher'' series;
+*"The Last Wish"
+**A side quest of the same name in the video game ''[[The Witcher 3: Wild Hunt]]'' serves as a direct continuation for the story;
+**The episode "Bottled Appetites" (Season 1, Episode 5) of ''The Witcher'' series.
+*"A Grain of Truth" was adapted into Season 2, Episode 1 of "The Witcher"
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{isfdb title|id=526757|title=The Last Wish}}
+*[http://fantasybookcritic.blogspot.com/2008/05/last-wish-by-andrzej-sapkowski.html Review by Fantasy Book Critic]
+*[http://ofblog.blogspot.com/2007/07/review-of-andrzej-sapkowskis-last-wish.html Review by OF Blog of the Fallen]
+*[http://thewertzone.blogspot.com/2007/04/last-wish-by-andrzej-sapkowski.html Review by The Wertzone]
+*{{in lang|pl}} [http://tawerna.rpg.pl/the-last-wish-recenzja/ Review of the English edition by Asthner i Falka, Biblioteka Światów]
+*{{in lang|pl}} [http://bs.tawerna.rpg.pl/Ostatnie-zyczenie-recenzja-a278.php Review of the Polish edition by Michał BAZYL Krupko, Biblioteka Światów]
+
+{{Witcher series}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Last Wish, The}}
+[[Category:1993 short story collections]]
+[[Category:Fantasy short story collections]]
+[[Category:The Witcher]]
+[[Category:Polish short story collections]]
+[[Category:Polish fantasy]]
